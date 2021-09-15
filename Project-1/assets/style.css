@@ -1,0 +1,52 @@
+
+
+
+.card-section {
+    text-align:center;
+    text-weight:bold;
+    text-color:white;
+}
+
+.feels_like{
+    font-weight:bold;
+    font-style:italic;
+}
+
+.humidity {
+    font-weight:bold;
+    font-style:italic;
+
+}
+.temp {
+    font-weight:bold;
+    font-style:italic;
+
+     
+}
+.top-bar {
+background-image: url("https://t3.ftcdn.net/jpg/01/94/83/10/360_F_194831077_ddr4wrurP4pA3vSI9yZ3O5saJjb27sua.jpg");
+}
+
+.ul.dropdown-menu {
+    background-image: url("https://t3.ftcdn.net/jpg/01/94/83/10/360_F_194831077_ddr4wrurP4pA3vSI9yZ3O5saJjb27sua.jpg");
+}
+
+.card-divider {
+    width: 100%;
+    Text-align: center;
+    text-size-adjust: 100%;
+}
+
+.event-hero {
+    background-image: url('./images/daniel-vogel-sVothhm7iRI-unsplash.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+
+
+
+
+
